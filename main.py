@@ -9,6 +9,7 @@ TOTAAL_VASTE_KOSTEN = VK_BELASTING + VK_DRANKJE + VK_TOEGANG_FEE
 
 
 
+
 def check_age(datum):
     """
     Haal geboortedatunm in een specifiek formaat en controleer of het goed is
